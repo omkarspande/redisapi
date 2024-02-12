@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REDISAPI", "REDISAPI.csproj", "{F8F2F817-C998-433C-975D-9537191657D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8F2F817-C998-433C-975D-9537191657D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F2F817-C998-433C-975D-9537191657D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F2F817-C998-433C-975D-9537191657D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F2F817-C998-433C-975D-9537191657D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A57580C-1A94-4FA6-ADC9-C73A7C230DF1}
+	EndGlobalSection
+EndGlobal
